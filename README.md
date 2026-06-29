@@ -4,13 +4,6 @@ A production-grade FastAPI analytics microservice with **Pydantic v2** request v
 
 ---
 
-## 📌 Assignment
-
-**Enforcing Request Schemas and Structured JSON Validation with Pydantic**  
-MCA — Project Based Learning (PBL) | BMSIT
-
----
-
 ## 🗂️ Project Structure
 
 ```
